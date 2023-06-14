@@ -1,4 +1,4 @@
-![Banner](https://t3.ftcdn.net/jpg/01/23/91/84/360_F_123918405_djz92sSnn2hVzgvjNsgzWKBvFoeSZ3R3.jpg)
+![Banner](https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)
 
 <h1 align="center">Hello 👋, I'm Kyle Nguyen</h1>
 <p align="center">

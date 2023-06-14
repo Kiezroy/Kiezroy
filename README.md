@@ -3,12 +3,15 @@
   <img src="https://b1030908.smushcdn.com/1030908/wp-content/uploads/2020/08/Stinger.jpg?lossy=1&strip=1&webp=1" alt="Coding" width="200">
 </p>
 <h3 align="center">Student at California State University, Sacramento (CSUS)</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Kiezroy/Kiezroy/blob/main/pusheencode.gif">&nbsp;
 
-<p align="right">
-  <img src="https://github.com/Kiezroy/Kiezroy/blob/main/assets/67439231/687f3373-7231-48b4-bc86-569fa75d7972.gif" alt="pusheencode" width="300" height="300"/>
-</p>
 
-- 📫 How to reach me **kyletnguyen16@gmail.com**
+- 🔭 I’m currently working on **my B.S. in Computer Science**
+
+- 📫 How to reach me: **kyletnguyen16@gmail.com**
+
+- ⚡ Fun fact: **Love fitness**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Kiezroy&style=flat-square)
 
-- 🔭 I’m currently working on **my B.S. in Computer Science**
+- 🔭 I’m currently working on my **B.S. in Computer Science**
 
 - 📫 How to reach me: **kyletnguyen16@gmail.com**
 

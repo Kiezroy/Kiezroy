@@ -1,3 +1,5 @@
+![Banner](https://t3.ftcdn.net/jpg/01/23/91/84/360_F_123918405_djz92sSnn2hVzgvjNsgzWKBvFoeSZ3R3.jpg)
+
 <h1 align="center">Hello 👋, I'm Kyle Nguyen</h1>
 <p align="center">
   <img src="https://b1030908.smushcdn.com/1030908/wp-content/uploads/2020/08/Stinger.jpg?lossy=1&strip=1&webp=1" alt="Coding" width="200">
